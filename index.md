@@ -1,12 +1,30 @@
-## Welcome to GitHub Pages
+## Intro.
 
-You can use the [editor on GitHub](https://github.com/nudtdengq/nudtdengq.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The page is designed for sharing academic information in CPU 673-1, which includes incoming conference information, past conference paper and useful links.
 
-### Markdown
+If you have any recommendations or suggestions, please feel free to contact me.
+
+
+### Conference in 2020
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+Conference| Abstract Deadline | Full Paper Deadline | Conference Data | Location | Link
+ISCA      |||||
+MICRO|||||
+HPCA|||||
+ASPLOS|||||
+SC|||||
+DAC|||||
+ICCAD|||||
+FAST|||||
+MSST|||||
+ISSCC|||||
+HOT-CHIPS|||||
+IEDM|||||
+
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +44,14 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Past Conference Paper 
 
-### Jekyll Themes
+### Useful Links
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nudtdengq/nudtdengq.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- 会伴（http://www.myhuiban.com/）
+
+- ML加速器文章收集（https://github.com/fengbintu/Neural-Networks-on-Silicon#2018-aspdac）
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+corresponding email: dengq_nudt at hotmail dot com
