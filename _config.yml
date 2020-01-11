@@ -1,7 +1,8 @@
-# title: Academic Info.
-#theme: jekyll-theme-architect
+title: Academic Info.
+description: CPU 673-1
+theme: jekyll-theme-architect
 # Site settings
-title: Academic Info. 
+# title: Academic Info. 
 # description: CPU 673-1
 # baseurl: "" # the subpath of your site, e.g. /blog
 
