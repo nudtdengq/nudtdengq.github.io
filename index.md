@@ -9,8 +9,6 @@ If you have any recommendations or suggestions, please feel free to contact us.
 
 ### Conference in 2020
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 Conference| Abstract Deadline | Full Paper Deadline | Conference Data | Location | Link
 ISCA      |2019-11-19|2019-11-26|2020-05-30|Valencia, Spain|[link](https://iscaconf.org/isca2020/)
 MICRO     |TBD(2019-3-29)|TBD(2019-4-5)|TDB(2020-10-12)|Athens, Greece|[link](https://www.microarch.org/micro53/)
